@@ -1,0 +1,85 @@
+
+.wrapper {
+    margin: 2% auto;
+    width: 90%;
+}
+.bottom_border{
+  border-bottom: 1px solid #EAEAEA;
+  margin:40px 0;
+}
+.main_header{
+  text-align:center;
+  padding: 10px 0px;
+}
+.head_content {
+    margin-bottom: 40px;
+}
+/**** TABLES ****/
+.head_table td{
+  text-align:center;
+  padding:5px 0;
+  border:2px solid blue;
+}
+.company_list th, .company_list td, table.company_list {
+    width: 33%;
+    border: 1px solid black;
+}
+
+table.company_list{
+  width:100%;
+}
+table{
+  width: 100%;
+}
+table.head_table{
+  background-color: rgb(240, 248, 255);
+}
+table.company_list{
+  text-align: center;
+  background-color: rgb(211,211,211);
+
+  margin: 0 auto;
+}
+
+.middle-wrap{
+  width:90%;
+  margin:0 auto;
+}
+/**** LISTS ****/
+.lists-section div{
+  display:inline-block;
+}
+h4 {
+    text-align: center;
+}
+.width50{
+  width:48%;
+}
+
+/**** IMAGES ****/
+.images .shape{
+  display:inline-block;
+  width:33%;
+}
+.shape div, .rabbit img {
+    margin: 0 auto;
+    display: block;
+}
+/* shapes */
+.circle{
+  background-color:green;
+  border-radius:50%;
+  height:202px;
+  width:200px;
+  border: 3px solid #000;
+}
+.square{
+  background-color:purple;
+  height:202px;
+  width:200px;
+  border: 3px solid #000;
+}
+.rabbit img{
+  border:3px solid blue;
+  height:200px;
+}
