@@ -1,0 +1,48 @@
+body{
+  background-color: rgba(0,0,0,.58);
+  margin:0;
+}
+
+h1.main-header{
+  text-align: center;
+}
+h5{
+  text-decoration: underline;
+}
+
+.top_border{
+  border-top:1px solid white;
+}
+
+ /* Middle Section */
+ .middle_section .menu{
+   border:2px dashed black;
+   width:22%;
+   margin:4px;
+ }
+ .middle_section .mid_block{
+   display:inline-block;
+   vertical-align: top;
+ }
+ .mid_block.jakes_banner{
+   width:50%;
+ }
+ .mid_block img{
+ }
+ /* Bottom Block */
+.bottom_block h2{
+  text-decoration: underline;
+  text-align:center;
+}
+.bottom_block{
+  display:inline-block;
+  width:49%;
+  vertical-align: top;
+}
+.bottom_section div:first-child{
+  border-right:3px solid black;
+}
+.bottom_block ul{
+  list-style-type: none;
+  text-align:center;
+}
