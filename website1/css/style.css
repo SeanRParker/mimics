@@ -1,7 +1,7 @@
 
 .wrapper {
-    margin: 2% auto;
-    width: 90%;
+  margin: 2% auto;
+  width: 90%;
 }
 .bottom_border{
   border-bottom: 1px solid #EAEAEA;
@@ -12,7 +12,7 @@
   padding: 10px 0px;
 }
 .head_content {
-    margin-bottom: 40px;
+  margin-bottom: 40px;
 }
 /**** TABLES ****/
 .head_table td{
@@ -21,8 +21,8 @@
   border:2px solid blue;
 }
 .company_list th, .company_list td, table.company_list {
-    width: 33%;
-    border: 1px solid black;
+  width: 33%;
+  border: 1px solid black;
 }
 
 table.company_list{
@@ -50,7 +50,7 @@ table.company_list{
   display:inline-block;
 }
 h4 {
-    text-align: center;
+  text-align: center;
 }
 .width50{
   width:48%;
@@ -62,8 +62,8 @@ h4 {
   width:33%;
 }
 .shape div, .rabbit img {
-    margin: 0 auto;
-    display: block;
+  margin: 0 auto;
+  display: block;
 }
 /* shapes */
 .circle{

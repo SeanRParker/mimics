@@ -14,22 +14,22 @@ h5{
   border-top:1px solid white;
 }
 
- /* Middle Section */
- .middle_section .menu{
-   border:2px dashed black;
-   width:22%;
-   margin:4px;
- }
- .middle_section .mid_block{
-   display:inline-block;
-   vertical-align: top;
- }
- .mid_block.jakes_banner{
-   width:50%;
- }
- .mid_block img{
- }
- /* Bottom Block */
+/* Middle Section */
+.middle_section .menu{
+  border:2px dashed black;
+  width:22%;
+  margin:4px;
+}
+.middle_section .mid_block{
+  display:inline-block;
+  vertical-align: top;
+}
+.mid_block.jakes_banner{
+  width:50%;
+}
+.mid_block img{
+}
+/* Bottom Block */
 .bottom_block h2{
   text-decoration: underline;
   text-align:center;
